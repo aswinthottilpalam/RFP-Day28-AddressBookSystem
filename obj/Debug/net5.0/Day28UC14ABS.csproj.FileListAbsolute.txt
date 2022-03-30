@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\bin\Debug\net5.0\Day28UC14ABS.exe
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\bin\Debug\net5.0\Day28UC14ABS.deps.json
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\bin\Debug\net5.0\Day28UC14ABS.runtimeconfig.json
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\bin\Debug\net5.0\Day28UC14ABS.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\bin\Debug\net5.0\Day28UC14ABS.dll
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\bin\Debug\net5.0\Day28UC14ABS.pdb
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\obj\Debug\net5.0\Day28UC14ABS.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\obj\Debug\net5.0\Day28UC14ABS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\obj\Debug\net5.0\Day28UC14ABS.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\obj\Debug\net5.0\Day28UC14ABS.AssemblyInfo.cs
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\obj\Debug\net5.0\Day28UC14ABS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\obj\Debug\net5.0\Day28UC14ABS.dll
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\obj\Debug\net5.0\refint\Day28UC14ABS.dll
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\obj\Debug\net5.0\Day28UC14ABS.pdb
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\obj\Debug\net5.0\Day28UC14ABS.genruntimeconfig.cache
+C:\Users\HP\Desktop\Class\Day28AddressBookSystem\Day28UC14\obj\Debug\net5.0\ref\Day28UC14ABS.dll
